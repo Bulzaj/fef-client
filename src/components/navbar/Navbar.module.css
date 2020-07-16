@@ -1,0 +1,13 @@
+.Navbar {
+    background-color: #4985e6;
+    padding: 10px;
+    color: #eeeeee;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.Navbar > a {
+    font-size: 30px;
+}

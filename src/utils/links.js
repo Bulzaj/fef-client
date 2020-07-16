@@ -1,0 +1,1 @@
+export const GITHUB_BACKEND = 'https://github.com/Bulzaj/function_extremes_finder';
